@@ -1,4 +1,4 @@
-const palindromes = function(word) {
+const palindromes = function (word) {
   if (
     word
       .toLowerCase()
